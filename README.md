@@ -14,6 +14,19 @@ I'm just a regular guy on a journey to becoming a full-stack developer, It's a k
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a talented Graphic Designer
 
+
+### Currently Learning
+
+![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
+
+
+
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=radical)
 
 
