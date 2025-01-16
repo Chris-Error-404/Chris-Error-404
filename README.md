@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer;Always+learning+new+things+and+developing+my+skills&center=true&width=500&height=50">
 </h1>
 
-
+## ABOUT ME
 I'm just a regular guy on a journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
 - 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
@@ -15,9 +15,10 @@ I'm just a regular guy on a journey to becoming a full-stack developer, It's a k
 - ⚡ Fun fact: I'm also a talented Graphic Designer
 
 
-### Currently Learning
+## CURRENTLY LEARNING
 
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
@@ -25,13 +26,11 @@ I'm just a regular guy on a journey to becoming a full-stack developer, It's a k
 
 
 
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=radical)
 
 
 
-<h3>Languages and Tools</h3>
+## LANGUAGES & TOOLS
 
 ![Languages](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) 
 ![Languages](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff) 
