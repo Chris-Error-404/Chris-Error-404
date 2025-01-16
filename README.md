@@ -4,7 +4,7 @@
 </h1>
 
 ## ABOUT ME
-I'm just a regular guy on a journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
+I'm just a regular guy on my journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
 - 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
 - 🌱 I’m currently learning React Js & Tailwind CSS to futher my Frontend Capabilities
