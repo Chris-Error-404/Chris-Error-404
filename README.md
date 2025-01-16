@@ -8,9 +8,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a talented Graphic Designer
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=radical)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=radical)
+
+
 
 <h3>Languages and Tools</h3>
 
