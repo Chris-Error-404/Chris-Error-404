@@ -1,10 +1,10 @@
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
+</h1>
 
 
-## Hello, I'm Nzenwata Christopher, a regular guy on a journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+I'm just a regular guy on a journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
 - 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
 - 🌱 I’m currently learning React Js & Tailwind CSS to futher my Frontend Capabilities
