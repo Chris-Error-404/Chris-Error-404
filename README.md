@@ -1,6 +1,6 @@
 ## Hello, I'm Nzenwata Christopher, a regular guy on a journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
-- 🔭 I’m currently working on a [Secondary School Portal](https://e-school-red.vercel.app/)
+- 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
 - 🌱 I’m currently learning React Js & Tailwind CSS to futher my Frontend Capabilities
 - 👯 I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
 - 🤔 I’m looking for help with learning backend as i plan to become a Fullstack developer
