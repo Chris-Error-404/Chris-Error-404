@@ -45,7 +45,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 ![Tools](https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logoColor=fff) 
 ![Tools](https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff) 
 ![Hosting](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff) 
-![Tools](https://img.shields.io/badge/-Picsart-fffc00?logo=picsart&logoColor=000) 
+![Picsart](https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge)
 ![Languages](https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff)
 
 
