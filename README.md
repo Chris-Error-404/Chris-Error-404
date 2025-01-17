@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer;Always+learning+new+things+and+developing+my+skills&center=true&width=500&height=50">
 </h1>
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 About Me
 I'm just a regular guy on my journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
 - 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
@@ -13,7 +13,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a talented Graphic Designer
 
-## 📚 CURRENTLY LEARNING
+## 📚 Currently Learning
 
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -24,7 +24,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia) &nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
 
-## 💻 LANGUAGES & TOOLS
+## 💻 Languages & Tools
 
 ![Languages](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) 
 ![Languages](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff) 
@@ -44,6 +44,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 ![Tools](https://img.shields.io/badge/-Picsart-fffc00?logo=picsart&logoColor=000) 
 ![Languages](https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff)
 
-### 📬 Contact Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-nzenwatachristopher186@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)
+## Contact Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-nzenwatachristopher186@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/) [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/your-x-handle) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your-instagram-handle) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/your-reddit-handle)
+
