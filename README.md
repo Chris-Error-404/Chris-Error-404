@@ -9,7 +9,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 - 🌱 I’m currently learning React Js & Tailwind CSS to further my Frontend Capabilities
 - 👯 I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
 - 🤔 I’m looking for help with learning backend as I plan to become a Fullstack developer
-- 📫 How to reach me: [WhatsApp me](https://wa.me/2348141207888)
+- 📫 How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster REsponse)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm also a talented Graphic Designer
 
