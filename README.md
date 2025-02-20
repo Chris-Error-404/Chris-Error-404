@@ -49,6 +49,15 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 ![Languages](https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff)
 
 
-## Contact Me
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-nzenwatachristopher186@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/) [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/your-x-handle) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/your-instagram-handle) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/your-reddit-handle)
+Here’s your updated Contact Me section with your actual social media and contact details:
+
+## Contact Me  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nzenwatachristopher186@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)  
+[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Chris_Error_404)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/typicaldeveloper)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/your-reddit-handle)
+
+
 
