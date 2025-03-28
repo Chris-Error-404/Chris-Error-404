@@ -35,6 +35,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 ![Languages](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000) 
 ![Frameworks](https://img.shields.io/badge/-W3.CSS-4caf50?logo=w3c&logoColor=fff) 
 ![Frameworks](https://img.shields.io/badge/-Bootstrap-7952b3?logo=bootstrap&logoColor=fff) 
+![Frameworks](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff)
 ![Languages](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff) 
 ![Frameworks](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff) 
 ![Databases](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=fff) 
