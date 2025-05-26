@@ -60,7 +60,19 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
 </p>
 
+<br><br
+
+## 📈 3D Graph's Made By Hard Work
+
+This graph shows my interactions from my GitHub account. And why is it here? Here I can show in more detail and in 3D form to better visualize what has happened since I joined the platform.
+
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <br><br>
+
+        
 
 <!-- ## 📈 3D Contribution Graph
 
