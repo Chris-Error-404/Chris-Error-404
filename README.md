@@ -62,13 +62,13 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
 
 <br><br>
 
-## 📈 3D Contribution Graph
+<!-- ## 📈 3D Contribution Graph
 
 > This graph visualizes my GitHub activity in a 3D style — a detailed, creative view of my contribution journey.
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
-
+ -->
 <br><br>
 
