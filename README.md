@@ -3,17 +3,18 @@
 </h1>
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐 
+<br>
 
 ## About Me
 I'm just a regular guy on my journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
-- 🌟 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
-- 🌟 I'm currently studying Computer Science at the Univeristy
-- 🌟 I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
-- 🌟 I’m looking for help with learning backend as I plan to become a Full-stack Web Developer
-- 🌟 How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
-- 🌟 Pronouns: he/him
-- 🌟 Fun fact: I'm also a talented Graphic Designer
+⭐ I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
+⭐ I'm currently studying Computer Science at the Univeristy
+⭐ I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
+⭐ I’m looking for help with learning backend as I plan to become a Full-stack Web Developer
+⭐ How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
+⭐ Pronouns: he/him
+⭐ Fun fact: I'm also a talented Graphic Designer
 
 ## Currently Learning
 
