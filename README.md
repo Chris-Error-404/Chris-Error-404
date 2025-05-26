@@ -9,7 +9,7 @@
 ## About Me
 I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set—particularly in web development—one commit at a time.
 
-<<<<<<< HEAD
+
 - ⭐ I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
 - ⭐ I'm currently studying Computer Science at the Univeristy
 - ⭐ I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
@@ -26,7 +26,6 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 - ⭐ Pronouns: he/him
 - ⭐ Fun fact: I'm also a talented graphic designer
 <br>
->>>>>>> a23cf000fbf874f34b1af15f02a51ecfdd252556
 
 ## Currently Learning
 
