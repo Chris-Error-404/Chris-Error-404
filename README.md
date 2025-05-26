@@ -60,7 +60,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
 </p>
 
-<br><br
+<br><br>
 
 ## 📈 3D Graph's Made By Hard Work
 
