@@ -1,58 +1,63 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer;Always+learning+new+things+and+developing+my+skills&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer;Always+learning+new+things+and+developing+my+skills&center=true&width=500&height=50">
 </h1>
 
-## 👨‍💻 About Me
-I'm just a regular guy on my journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
+## About Me
 
-- 🔭 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
-- 🌱 I'm currently studying Computer Science at the Univeristy
-- 👯 I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
-- 🤔 I’m looking for help with learning backend as I plan to become a Full-stack Web Developer
-- 📫 How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm also a talented Graphic Designer
+I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
-## 📚 Currently Learning
+🌟 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>  
+🌟 I'm currently studying Computer Science at the University  
+🌟 I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow  
+🌟 I’m looking for help with learning backend as I plan to become a Full-stack Web Developer  
+🌟 How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)  
+🌟 Pronouns: he/him  
+🌟 Fun fact: I'm also a talented Graphic Designer  
 
-![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
-![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
+## Currently Learning
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
-[![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats) 
+![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)  
+![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)  
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)  
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)  
+[![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)  
 
+## Languages & Tools
 
-## 💻 Languages & Tools
+![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)  
+![CSS](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000)  
+![W3.CSS](https://img.shields.io/badge/-W3.CSS-4caf50?logo=w3c&logoColor=fff)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?logo=bootstrap&logoColor=fff)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)  
+![Django](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=fff)  
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000)  
+![VSCode](https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logoColor=fff)  
+![Figma](https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)  
+![Picsart](https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge)  
+![English](https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff)  
 
-![Languages](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) 
-![Languages](https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff) 
-![Languages](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000) 
-![Frameworks](https://img.shields.io/badge/-W3.CSS-4caf50?logo=w3c&logoColor=fff) 
-![Frameworks](https://img.shields.io/badge/-Bootstrap-7952b3?logo=bootstrap&logoColor=fff) 
-![Frameworks](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff)
-![Languages](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff) 
-![Frameworks](https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff) 
-![Databases](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=fff) 
-![Concepts](https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff) 
-![Version Control](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff) 
-![Version Control](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
-![Libraries](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000) 
-![Tools](https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logoColor=fff) 
-![Tools](https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff) 
-![Hosting](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff) 
-![Picsart](https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge)
-![Languages](https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff)
+## Contact Me  
 
-## 📱 Contact Me  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nzenwatachristopher186@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/) [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Chris_Error_404) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/typicaldeveloper) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/your-reddit-handle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2348141207888)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nzenwatachristopher186@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)  
+[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Chris_Error_404)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/typicaldeveloper)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/your-reddit-handle)  
 
-## 👤 Profile Views
+## Profile Views
 
 > Counting of visitors to this page since **May 26, 2025**.
 
@@ -60,27 +65,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer, It's a 
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
 </p>
 
-<br><br>
-
-## 📈 3D Graph's Made By Hard Work
+## 3D Graph's Made By Hard Work
 
 This graph shows my interactions from my GitHub account. And why is it here? Here I can show in more detail and in 3D form to better visualize what has happened since I joined the platform.
 
-<br>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br><br>
-
-        
-
-<!-- ## 📈 3D Contribution Graph
-
-> This graph visualizes my GitHub activity in a 3D style — a detailed, creative view of my contribution journey.
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
- -->
-<br><br>
-
