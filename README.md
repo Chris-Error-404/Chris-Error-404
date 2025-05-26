@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer;Always+learning+new+things+and+developing+my+skills&center=true&width=500&height=50">
 </h1>
 
-## 🌟 About Me
+# Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐 
+
+## About Me
 I'm just a regular guy on my journey to becoming a full-stack developer, It's a key part of one of my long-term goals, I'm dedicated to improving and expanding my skill set, particularly in web development one commit at a time.
 
 - 🌟 I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
