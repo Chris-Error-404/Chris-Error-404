@@ -4,7 +4,6 @@
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
 <br>
-<br>
 
 ## About Me
 I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set—particularly in web development—one commit at a time.
