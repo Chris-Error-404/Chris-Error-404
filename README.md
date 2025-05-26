@@ -17,14 +17,6 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 - ⭐ How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
 - ⭐ Pronouns: he/him
 - ⭐ Fun fact: I'm also a talented Graphic Designer
-=======
-- ⭐ I’m currently working on a [Secondary School Portal](https://e-school-red.vercel.app/)
-- ⭐ I'm studying Computer Science at university
-- ⭐ I’m looking to collaborate on projects that utilize my skills while helping me grow
-- ⭐ I’m seeking help with backend development to become a full-stack web developer
-- ⭐ Contact me via [WhatsApp](https://wa.me/2348141207888) for a faster response
-- ⭐ Pronouns: he/him
-- ⭐ Fun fact: I'm also a talented graphic designer
 <br>
 
 ## Currently Learning
