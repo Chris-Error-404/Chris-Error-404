@@ -26,6 +26,10 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 ## Currently Learning
 
+> This section highlights the new skills and technologies I'm diving into right now because growth never stops and there’s always something exciting to explore.
+
+<br>
+
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
@@ -33,7 +37,18 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
 
+---
+
+<br>
+
+## GitHub Stats
+
+> This section shows a snapshot of my coding activity and contributions on GitHub, reflecting my growth and progress over time.
+
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)
+<br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
@@ -43,6 +58,10 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 <br>
 
 ## Languages & Tools
+
+> These are the technologies and tools I use regularly to build projects, solve problems, and keep improving my skills.
+
+<br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" alt="HTML" />
@@ -71,6 +90,10 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 ## Contact Me
 
+> Feel free to reach out if you want to collaborate, ask questions, or just say hi. I’m always open to connect!
+
+<br>
+
 <p align="left">
   <a href="https://wa.me/2348141207888"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" /></a>
   <a href="mailto:nzenwatachristopher186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
@@ -88,6 +111,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 > This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
 
+<br>
+
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
@@ -97,6 +122,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ## Profile Views
 
 > Counting of visitors to this page since **October 23, 2024**.
+
+<br>
 
 <p align="left">
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
@@ -109,6 +136,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ## Visit Counter by Countries
 
 > Map showing country of visitors to this page since **May 27, 2025**
+
 <br>
 
 <a href="https://info.flagcounter.com/WRYg">
@@ -122,8 +150,22 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ## Vist Flag Table
 
 > Table showing country of visitors to this page since **May 27, 2025**
+
 <br>
 
 <a href="https://info.flagcounter.com/WRYg">
   <img src="https://s01.flagcounter.com/countxl/WRYg/bg_000000/txt_FFFFFF/border_333333/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" />
 </a>
+
+---
+
+<br>
+
+## Want to clone this repo?
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Chris-Error-404/Chris-Error-404.git
+
+# 2. Navigate into the project directory
+cd Chris-Error-404
