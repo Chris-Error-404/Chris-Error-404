@@ -68,6 +68,13 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 </p>
 <br>
 
+## 3D Graphs Made By Hard Work
+
+This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<br>
+
 ## Profile Views
 
 > Counting of visitors to this page since **October 23, 2025**.
@@ -76,9 +83,3 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
 </p>
 <br>
-
-## 3D Graphs Made By Hard Work
-
-This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
