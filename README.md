@@ -33,9 +33,10 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
 
 ---
 
@@ -100,4 +101,29 @@ This graph shows my interactions on GitHub. Why is it here? Because it's a cool 
 <p align="left">
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
 </p>
+
+---
+
 <br>
+
+## Visit Counter by Countries
+
+> Map showing country of visitors to this page since **May 27, 2025**
+<br>
+
+<a href="https://info.flagcounter.com/WRYg">
+  <img src="https://s01.flagcounter.com/map/WRYg/size_s/txt_FFFFFF/border_333333/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0" />
+</a>
+
+---
+
+<br>
+
+## Vist Flag Table
+
+> Table showing country of visitors to this page since **May 27, 2025**
+<br>
+
+<a href="https://info.flagcounter.com/WRYg">
+  <img src="https://s01.flagcounter.com/countxl/WRYg/bg_000000/txt_FFFFFF/border_333333/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" />
+</a>
