@@ -95,7 +95,7 @@ This graph shows my interactions on GitHub. Why is it here? Because it's a cool 
 
 ## Profile Views
 
-> Counting of visitors to this page since **October 23, 2025**.
+> Counting of visitors to this page since **October 23, 2024**.
 
 <p align="left">
   <img src="https://count.getloli.com/get/@Chris-Error-404.github.readme" alt="Profile View Counter" />
