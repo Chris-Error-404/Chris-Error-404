@@ -3,6 +3,9 @@
 </h1>
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
+
+---
+
 <br>
 
 ## About Me
@@ -16,6 +19,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 - ⭐ How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
 - ⭐ Pronouns: he/him
 - ⭐ Fun fact: I'm also a talented Graphic Designer
+
+---
+
 <br>
 
 ## Currently Learning
@@ -30,6 +36,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)
+
+---
+
 <br>
 
 ## Languages & Tools
@@ -54,6 +63,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
   <img src="https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge" alt="Picsart" />
   <img src="https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff" alt="English" />
 </p>
+
+---
+
 <br>
 
 ## Contact Me
@@ -66,6 +78,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
   <a href="https://www.instagram.com/typicaldeveloper"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
   <a href="https://www.reddit.com/user/your-reddit-handle"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" /></a>
 </p>
+
+---
+
 <br>
 
 ## 3D Graphs Made By Hard Work
@@ -73,6 +88,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 <br>
 
 ## Profile Views
