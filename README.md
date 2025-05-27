@@ -86,7 +86,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 ## 3D Graphs Made By Hard Work
 
-This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
+> This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
