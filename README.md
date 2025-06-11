@@ -16,7 +16,6 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 - ⭐ I'm currently studying Computer Science at the Univeristy
 - ⭐ I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
 - ⭐ I’m looking for help with learning backend as I plan to become a Full-stack Web Developer
-- ⭐ How to reach me: [WhatsApp me](https://wa.me/2348141207888) (Faster Response)
 - ⭐ Pronouns: he/him
 - ⭐ Fun fact: I'm also a talented Graphic Designer
 
@@ -95,7 +94,6 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 <br>
 
 <p align="left">
-  <a href="https://wa.me/2348141207888"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" /></a>
   <a href="mailto:nzenwatachristopher186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/christopher-nzenwata-b52807334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://x.com/Chris_Error_404"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
