@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
 </h1>
 
-# Hello, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
+# Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
 
 ---
 
