@@ -4,21 +4,24 @@
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
 
----
-
 <br>
 
 ## About Me
-I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set—particularly in web development—one commit at a time.
+I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time.
 
+```js
+//extraInfo
 
-- ⭐ I’m currently working on a <a href="https://e-school-red.vercel.app/" target="_blank">Secondary School Portal</a>
-- ⭐ I'm currently studying Computer Science at the Univeristy
-- ⭐ I’m looking to collaborate on projects that utilize my skills while providing opportunities to learn and grow.
-- ⭐ I’m looking for help with learning backend as I plan to become a Full-stack Web Developer
-- ⭐ Pronouns: he/him
-- ⭐ Fun fact: I'm also a talented Graphic Designer
+let nzenwataChristopher = {
+  otherNames: ['typical developer', 'chris-error-404'],
+  pronouns: ['he', 'him'],
+  interests: ['coding', 'art', 'gaming', 'movies'],
+  education: 'computer science', // still in school
+  personality: ['curious', 'creative', 'always learning'],
+};
 
+ // used let instead of const because I'm always evolving ⭐
+```
 ---
 
 <br>
@@ -81,6 +84,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
   <img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma" />
   <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel" />
   <img src="https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge" alt="Picsart" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows" />
   <img src="https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff&style=for-the-badge" alt="English" />
 </p>
 
