@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nzenwata+Christopher;A+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nzenwata+Christopher;A+Frontend+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
 </h1>
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
@@ -33,8 +33,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
-<!--![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)-->
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
+<!--![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)-->
 
 ---
 
@@ -63,25 +63,25 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=fff" alt="CSS" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952b3?logo=bootstrap&logoColor=fff" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952b3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
   <!--<img src="https://img.shields.io/badge/-W3.CSS-4caf50?logo=w3c&logoColor=fff" alt="W3.CSS" />-->
-  <img src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
   <!--<img src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff" alt="Django" />-->
   <!--<img src="https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=fff" alt="MySQL" />-->
-  <img src="https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff&style=for-the-badge" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
   <!--<img src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000" alt="React" />-->
-  <img src="https://img.shields.io/badge/-VSCode-007acc?logo=visual-studio-code&logoColor=fff" alt="VSCode" />
-  <img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff" alt="Vercel" />
-  <img src="https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff" alt="Picsart" />
-  <img src="https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff" alt="English" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Picsart-9b4dca?logo=picsart&logoColor=fff&style=for-the-badge" alt="Picsart" />
+  <img src="https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff&style=for-the-badge" alt="English" />
 </p>
 
 ---
@@ -97,9 +97,11 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 <p align="left">
   <a href="mailto:nzenwatachristopher186@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/christopher-nzenwata-b52807334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://x.com/Chris_Error_404"><img src="https://img.shields.io/badge/X-000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a href="https://x.com/Chris_Error_404"><img src="https://img.shields.io/badge/X/Twitter-000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
   <a href="https://www.instagram.com/typicaldeveloper"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://www.reddit.com/user/your-reddit-handle"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" /></a>
+<a href="https://discord.gg/AJUzJ5dq">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+</a>
 </p>
 
 ---
