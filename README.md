@@ -76,7 +76,7 @@ let nzenwataChristopher = {
   <img src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
   <!--<img src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=fff" alt="Django" />-->
   <!--<img src="https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=fff" alt="MySQL" />-->
-  <img src="https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff&style=for-the-badge" alt="Data Structures" />
+  <!--<img src="https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=fff&style=for-the-badge" alt="Data Structures" />-->
   <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
   <!--<img src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000" alt="React" />-->
