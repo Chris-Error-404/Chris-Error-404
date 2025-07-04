@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nzenwata+Christopher;A+Frontend+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
-</h1>
+</p>
 
 # Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
 
@@ -20,7 +20,7 @@ let nzenwataChristopher = {
   personality: ['curious', 'creative', 'always learning'],
 };
 
- // used let instead of const because I'm always evolving ⭐
+ // I used let instead of const because I'm always evolving ⭐
 ```
 ---
 
@@ -127,6 +127,8 @@ let nzenwataChristopher = {
 ## Profile Views
 
 > Counting of visitors to this page since **October 23, 2024**.
+> <br />
+> But to be clear it counts page hits not unique visitors, I just put it because it looks good.
 
 <br>
 
