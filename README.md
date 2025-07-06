@@ -51,10 +51,11 @@ let nzenwataChristopher = {
 
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)
 <br>
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
-
+-->
 ---
 
 <br>
