@@ -121,7 +121,7 @@ let nzenwataChristopher = {
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-
+<!--
 <br>
 
 ## Profile Views
@@ -167,7 +167,7 @@ let nzenwataChristopher = {
 ---
 
 <br>
-
+-->
 ## Want to clone this repo?
 
 ```bash
