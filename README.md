@@ -26,23 +26,6 @@ let nzenwataChristopher = {
 
 <br>
 
-## Currently Learning
-
-> This section highlights the new skills and technologies I'm diving into right now because growth never stops and there’s always something exciting to explore.
-
-<br>
-
-![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
-<!--![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)-->
-
----
-
-<br>
-
 ## GitHub Stats
 
 > This section shows a snapshot of my coding activity and contributions on GitHub, reflecting my growth and progress over time.
@@ -56,6 +39,20 @@ let nzenwataChristopher = {
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
 -->
+
+## Currently Learning
+
+> This section highlights the new skills and technologies I'm diving into right now because growth never stops and there’s always something exciting to explore.
+
+<br>
+
+![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
+<!--![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)-->
+
 ---
 
 <br>
