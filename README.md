@@ -165,7 +165,7 @@ let nzenwataChristopher = {
 ---
 
 <br>
--->
+
 ## Want to clone this repo?
 
 ```bash
@@ -174,3 +174,4 @@ git clone https://github.com/Chris-Error-404/Chris-Error-404.git
 
 # 2. Navigate into the project directory
 cd Chris-Error-404
+-->
