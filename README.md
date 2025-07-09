@@ -7,8 +7,8 @@
 <br>
 
 ## About Me
-I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time.
-
+I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time. I'm Currently Studying Computer Science.
+<!--
 ```js
 //extraInfo
 
@@ -23,7 +23,7 @@ let nzenwataChristopher = {
  // I used let instead of const because I'm always evolving ⭐
 ```
 ---
-
+-->
 <br>
 
 ## GitHub Stats
@@ -52,8 +52,6 @@ let nzenwataChristopher = {
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Microsoft Access](https://img.shields.io/badge/-Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
 <!--![SCSS](https://img.shields.io/badge/-SCSS-cc6699?logo=sass&logoColor=white&style=for-the-badge)-->
-
----
 
 <br>
 
@@ -86,8 +84,6 @@ let nzenwataChristopher = {
   <img src="https://img.shields.io/badge/-English-007396?logo=language&logoColor=fff&style=for-the-badge" alt="English" />
 </p>
 
----
-
 <br>
 
 ## Contact Me
@@ -106,8 +102,6 @@ let nzenwataChristopher = {
 </a>
 </p>
 
----
-
 <br>
 
 ## 3D Graphs Made By Hard Work
@@ -118,7 +112,6 @@ let nzenwataChristopher = {
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
 <!--
 <br>
 
