@@ -1,25 +1,14 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Nzenwata+Christopher;A+Frontend+Web+Developer+and+Graphic+Designer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Sora&weight=600&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nzenwata+Christopher;+A+Frontend+Web+Developer" />
 </p>
 
-# Hi, I'm Nzenwata Christopher, a Frontend Web Developer 🖐
-I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time. I'm Currently Studying Computer Science.
-<!--
-```js
-//extraInfo
+<h1>Hi, I'm Nzenwata Christopher <br>
+A Frontend Web Developer <br>
+Based in Nigeria</h1>
 
-let nzenwataChristopher = {
-  otherNames: ['typical developer', 'chris-error-404'],
-  pronouns: ['he', 'him'],
-  interests: ['coding', 'art', 'gaming', 'movies'],
-  education: 'computer science', // still in school
-  personality: ['curious', 'creative', 'always learning'],
-};
+I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time. I’m currently studying Computer Science to deepen my understanding of computing.
 
- // I used let instead of const because I'm always evolving ⭐
-```
----
--->
 <br>
 
 ## GitHub Stats
@@ -30,11 +19,9 @@ let nzenwataChristopher = {
 
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=algolia)](https://git.io/streak-stats)
 <br>
-<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=algolia)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)
--->
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&show_icons=true&theme=algolia)-->
 
 ## Currently Learning
 
