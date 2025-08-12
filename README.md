@@ -17,13 +17,11 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 ## GitHub Stats
 
 > This section shows a snapshot of my coding activity and contributions on GitHub, reflecting my growth and progress over time.
-
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=dark)](https://git.io/streak-stats) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&&hide_progress=true&theme=dark) 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=dark)-->
-
 <br>
 
 ## Currently Learning
@@ -36,7 +34,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-## Languages & Tools
+## Languages - Frameworks - Tools
 
 > These are the technologies and tools I use regularly to build projects, solve problems, and keep improving my skills.
 
