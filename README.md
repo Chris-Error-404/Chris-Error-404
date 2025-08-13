@@ -36,7 +36,7 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 ## Languages - Frameworks - Tools
 
-> These are the technologies and tools I use regularly to build projects, solve problems, and keep improving my skills.
+> These are the labguages, frameworks and tools I use to build projects, solve problems, and keep improving my skills.
 
 <br>
 
