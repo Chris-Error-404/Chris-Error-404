@@ -17,8 +17,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 > This section shows a snapshot of my coding activity and contributions on GitHub, reflecting my growth and progress over time.
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=dark)](https://git.io/streak-stats) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRIS-ERROR-404&&hide_progress=true&theme=dark) 
+[![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=dark)](https://git.io/streak-stats)
+<img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chris-error-404&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=Chris-Error-404&count_private=true&show_icons=true&theme=dark)-->
 <br>
 
