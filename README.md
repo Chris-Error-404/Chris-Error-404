@@ -18,7 +18,6 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats-omega-swart.vercel.app?user=Chris-Error-404&theme=dark)](https://git.io/streak-stats)
-<img align="left" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chris-error-404&layout=compact&langs_count=16&theme=dark&hide_progress=true"/>
 <br>
 
 ## Currently Learning
