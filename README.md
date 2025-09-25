@@ -1,6 +1,6 @@
 ```js
-const aboutMe = {
-  fullName: "Nzenwata Christopher",
+let aboutMe = {
+  name: "Nzenwata Christopher",
   career: "Frontend Developer",
   stack: [html, css, javaScript, scss, tailwind, react],
 {
