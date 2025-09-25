@@ -24,9 +24,9 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=plastic&logo=microsoft-access&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=badge&logo=tailwind-css&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=badge&logo=microsoft-access&logoColor=white)
 
 <br>
 
@@ -36,22 +36,22 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=plastic&logo=vscodium&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=obsidian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=badge&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=badge&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=badge&logo=vscodium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=badge&logo=figma&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=badge&logo=obsidian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=badge&logo=windows&logoColor=white)
 
 <br>
 
@@ -61,8 +61,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:nzenwatachristopher186@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)
-[![X](https://img.shields.io/badge/Twitter-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Chris_Error_404)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/typicaldeveloper)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28486191/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](mailto:nzenwatachristopher186@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)
+[![X](https://img.shields.io/badge/Twitter-000000?style=badge&logo=x&logoColor=white)](https://x.com/Chris_Error_404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/typicaldeveloper)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28486191/)
