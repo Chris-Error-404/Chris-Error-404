@@ -4,8 +4,6 @@
 </p>
 --->
 
-
-
 <h1>Hi, I'm Nzenwata Christopher, a frontend web developer</h1>
 
 I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time. I’m currently studying Computer Science to deepen my understanding of computing.
@@ -26,21 +24,34 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,access)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=plastic&logo=microsoft-access&logoColor=white)
 
 <br>
 
 ## Languages - Frameworks - Tools
 
-> These are the labguages, frameworks and tools I use to build projects, solve problems, and keep improving my skills.
+> These are the languages, frameworks and tools I use to build projects, solve problems, and keep improving my skills.
 
 <br>
 
-<div align="left">
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,react,vite,python,git,github,vercel,vscode,vscodium,figma,obsidian,windows&perline=8)](https://skillicons.dev)
-  
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=plastic&logo=vscodium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=obsidian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 
 <br>
 
@@ -50,30 +61,8 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 
 <br>
 
-<p align="left">
-  <a href="mailto:nzenwatachristopher186@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/christopher-nzenwata-b52807334/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://x.com/Chris_Error_404"><img src="https://skillicons.dev/icons?i=twitter" alt="X/Twitter"/></a>
-  <a href="https://www.instagram.com/typicaldeveloper"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-  <a href="[https://discord.gg/AJUzJ5dq](https://stackoverflow.com/users/28486191/)"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow"/></a>
-</p>
-
-<br>
-<!--
-## 3D Graphs Made By Hard Work
--->
-<!--
-> This graph shows my interactions on GitHub. Why is it here? Because it's a cool way to visualize my journey on the platform.
--->
-<!--
-<br>
--->
-<!--
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
--->
-<!--
-<br>
--->
-
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:nzenwatachristopher186@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)
+[![X](https://img.shields.io/badge/Twitter-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Chris_Error_404)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/typicaldeveloper)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28486191/)
