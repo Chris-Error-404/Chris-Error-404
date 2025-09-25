@@ -1,6 +1,9 @@
 ```js
 let aboutMe = {
-  name: ["Nzenwata", "Christopher"],
+  name: {
+    lastName: "Nzenwata",
+    firstName: "Christopher"
+  },
   career: "Frontend Developer",
   stack: [html, css, javaScript, scss, tailwind, react],
 {
