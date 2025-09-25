@@ -1,8 +1,8 @@
 ```js
 const aboutMe = {
-  fullName: "Nzenwata Christopher"
-  career: "Frontend Developer"
-  stack: [html, css, javaScript, scss, tailwind, react]
+  fullName: "Nzenwata Christopher",
+  career: "Frontend Developer",
+  stack: [html, css, javaScript, scss, tailwind, react],
 {
 ```
 <!--
