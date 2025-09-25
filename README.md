@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=500&size=35&duration=4000&pause=1000&color=3FBFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Nzenwata+Christopher;A+Frontend+Web+Developer" />
 </p>
 --->
-
+<!--
 <h1>Hi, I'm Nzenwata Christopher, a frontend web developer</h1>
 
 I'm just a regular guy on my journey to becoming a full-stack developer. It's a key part of one of my long-term goals. I'm dedicated to improving and expanding my skill set particularly in web development one commit at a time. I’m currently studying Computer Science to deepen my understanding of computing.
@@ -65,4 +65,4 @@ I'm just a regular guy on my journey to becoming a full-stack developer. It's a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-nzenwata-b52807334/)
 [![X](https://img.shields.io/badge/Twitter-000000?style=badge&logo=x&logoColor=white)](https://x.com/Chris_Error_404)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/typicaldeveloper)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28486191/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28486191/) -->
